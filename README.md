@@ -6,3 +6,12 @@ https://drive.google.com/drive/folders/1qW_EJBTjQEa5VrAdFkhEFBpGleEzGHkI?usp=sha
 
 Model file link: (alert.h5)
 https://drive.google.com/file/d/1h0uFD0So2cus_f2fT-HhnQp1-4JcpwFp/view?usp=sharing
+
+Project documentation:
+https://drive.google.com/file/d/1_I_LSvdyx7pNpQ8okz61gxpVPFqJmvUB/view?usp=sharing
+
+Project video:
+https://drive.google.com/file/d/16ZKqd7k-5ha8a-2WoZkxZvos2BR3bwb-/view?usp=sharing
+
+Output:
+https://drive.google.com/file/d/16V6vpQX9FcNJnvaEUz9Vx63avKvdLXL3/view?usp=sharing
